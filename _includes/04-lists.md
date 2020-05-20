@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### Asher's Favorite Sports, Ranked
+
+1. Baseball
+2. Curling
+3. Football
